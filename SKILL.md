@@ -4,7 +4,7 @@ description: Apply Heschel's Sabbath principles to create sanctuary in time amid
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4892
+  version: 1.0.4893
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sabbath-time-sanctification
